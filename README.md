@@ -5,14 +5,14 @@
 
 | Part |Units | Cost |
 |------|------|-------|------|
-|  [75:1 Pololu Gearmotor](https://www.tme.eu/ro/en/details/pololu-3074/dc-motors/pololu/75-1-hpcb-6v-dual-shaft/#)  |  2   | 40.60$ | If stocks are low, N20 motors are a drop-in replacement
+|  [75:1 Pololu Gearmotor](https://www.tme.eu/ro/en/details/pololu-3074/dc-motors/pololu/75-1-hpcb-6v-dual-shaft/#)  |  2   | 40.60$ |
 |  [Hall Encoders](https://www.tme.eu/ro/en/details/pololu-4760/accessories-for-micromotors/pololu/magnetic-encoder-12-cpr-2-7-18v-4760/)  |  1   |  15.86$  |
 | [Track Set](https://www.tme.eu/ro/en/details/pololu-3033/accessories-for-robotics-and-rc/pololu/30t-track-set-black/)    |   1   |   15.61$   |
 [Arduino Pro Mini](https://www.robotshop.com/eu/en/pro-mini-arduino-microcontroller.html)    |   1  |   10.74$  |      |
-|  [Motor Driver](https://www.tme.eu/ro/en/details/pololu-713/motor-control-modules/pololu/)    |  1    |  5.35$    |      |
-| [Step-up Regulator](https://www.robotshop.com/eu/en/pololu-5v-step-up-voltage-regulator-u3v70f5.html)   |   1   |  23.75     |      |
-|  [Battery Charger](https://www.tme.eu/ro/en/details/oky3404/charger-modules/okystar/)   |  1    | 2.30$      |      |
-|     |  Total    |  **112.21$**     |      | 
+|  [Motor Driver](https://www.tme.eu/ro/en/details/pololu-713/motor-control-modules/pololu/)    |  1    |  5.35$    | 
+| [Step-up Regulator](https://www.robotshop.com/eu/en/pololu-5v-step-up-voltage-regulator-u3v70f5.html)   |   1   |  23.75     | 
+|  [Battery Charger](https://www.tme.eu/ro/en/details/oky3404/charger-modules/okystar/)   |  1    | 2.30$      | 
+|     |  Total    |  **112.21$**     | 
 
 Additionally, for a fully functional robot, you will need a SBC and a rechargeable battery. 
 
